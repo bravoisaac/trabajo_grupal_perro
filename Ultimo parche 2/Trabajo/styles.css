@@ -1,0 +1,121 @@
+
+    body,html {height:100%;overflow:hidden;}
+    body {
+    overflow-y: scroll;
+    width: 100%;
+
+    position: absolute;
+    background: linear-gradient(to bottom, #969ceb 0%,#31c08e 100%);
+    }
+
+
+.buscar{
+    padding: 0px;
+    position: absolute;
+    left: 350px;
+    right: 400px;
+    margin-top: 55px;
+    top: 0;    
+
+
+}
+.buscar input{
+    width: 800px;
+    height: 30px;
+    margin-top: 0;
+    padding: 20px;
+    font-size: 20px;
+    color: black;
+    outline: auto;
+    border: 1px solid silver;
+    border-radius: 30px;
+    
+
+}
+
+
+
+    
+.menu{
+        list-style: none;
+        padding: 0;
+        background: #092327;
+        width: 90%;
+        max-width: 1150px; 
+        margin-left: 190px; 
+        margin-right: 100px; 
+}
+    
+.menu li a{
+        text-decoration: none;
+        color: white;
+        padding: 20px;
+        display: block;    }
+        
+.menu li{
+        display: inline-block;
+        text-align: center;
+    }
+    
+.menu li a:hover{
+        background: #52ad52;
+    }
+    
+.button_1{
+        margin-top: 50px;
+        margin-left: 100px;
+        margin-right: 1200px;
+        padding: 100px;
+
+      }    
+.button_2{
+
+        margin-top: 10px;
+        margin-left: 0px;
+        margin-right: 2%;
+
+      }          
+
+.barar{
+        margin-left: 190px;
+        margin-right: 190px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+      }
+#divisionxora{
+    background-color: #31c08e;
+    height: 100vh;
+    width: 100vw;
+}
+.c1{
+    
+    
+
+}
+.titulo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.textoxoro{
+
+    width: 30vw;
+    margin: 0 auto;
+    margin-top: 5vh;
+
+}
+.videoxoro{
+    width: 30vw;
+    margin: 0 auto;
+    margin-top: 5vh;
+
+}
+.videoxoro video{
+    width: 30vw;
+    height: 30vh;
+    margin: 0 auto;
+    margin-top: 5vh;
+
+    
+}
